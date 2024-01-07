@@ -33,7 +33,7 @@ local horizontal_battery_icons = {
 }
 
 local plugged_icon = " 󰚥"
-local unplugged_icon = " "
+local unplugged_icon = ""
 local discharging_battery_icons = {
   { "󰁺", 10 },
   { "󰁻", 20 },
